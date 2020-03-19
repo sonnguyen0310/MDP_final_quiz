@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "780218124014",
+    "firebase_url": "https://mpd-final.firebaseio.com",
+    "project_id": "mpd-final",
+    "storage_bucket": "mpd-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780218124014:android:9e4d6037f60611f54a95ff",
+        "android_client_info": {
+          "package_name": "com.sng.finalproject2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780218124014-l2f83v3lsfeppten788b9f35e1fe8nhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7_O3nVI1f-x_RRr7xFcBwaXVpn_QrUQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780218124014-l2f83v3lsfeppten788b9f35e1fe8nhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

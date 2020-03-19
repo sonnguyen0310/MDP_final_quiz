@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FinalProject2</string>
+    <string name="title_lecture">Lecture</string>
+    <string name="lecture_assignment">Assignment</string>
+    <string name="title_quiz">Quiz</string>
+    <string name="title_info">Course Info</string>
+    <string name="lb_prevs">Previous</string>
+    <string name="lb_next">Next</string>
+    <string name="lb_reset">Reset</string>
+    <string name="lb_finish">Finish</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_course_info">Course info</string>
+
+</resources>
